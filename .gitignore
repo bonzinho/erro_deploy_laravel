@@ -1,0 +1,4 @@
+.env_prod
+.idea/*
+vendor/*
+node_modules/*

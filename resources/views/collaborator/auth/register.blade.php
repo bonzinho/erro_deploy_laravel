@@ -1,0 +1,1 @@
+@extends('adminlte::register_collaborator')
