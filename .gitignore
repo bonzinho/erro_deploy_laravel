@@ -1,4 +1,5 @@
 .env_prod
+.env
 .idea/*
 public/colaboradores.json
 vendor/*
